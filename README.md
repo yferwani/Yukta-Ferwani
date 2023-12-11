@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yukta ferwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yukta ferwani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yferwani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yferwani01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yukta-ferwani-7a9340214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yukta ferwani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/yuktaferwani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yferwani01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yferwani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yferwani01" height="30" width="40" /></a>
 </p>
 
